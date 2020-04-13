@@ -2,7 +2,7 @@
 Expert machine learning and deep learning techniques for developing smarter IoT systems [Amita Kapoor](https://www.perlego.com/book/876531/handson-artificial-intelligence-for-iot-pdf)
 
 - [x] Chapter1: Principles and Foundations of IoT and AI
-- [ ] Chapter2: Data Access and Distributed Processing for IoT TXT format
+- [x] Chapter2: Data Access and Distributed Processing for IoT TXT format
 - [ ] Chapter3: Machine Learning for IoT
 - [ ] Chapter4: Deep Learning for IoT
 - [ ] Chapter5: Generic Algorithms for IoT Optimization
@@ -30,5 +30,13 @@ Tools Used/Partially Required
 * tensorflow
 * keras
 
+### Chapter 2
+Using Tools to manipulate datasets
 
+* csv
+* HDF5
+* SQLite
+* MySQL
+* NoSQL
+* HDFS
 
